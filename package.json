@@ -1,5 +1,5 @@
 {
-  "name": "mongo-s3",
+  "name": "mongo-dump-s3",
   "version": "1.2.0",
   "description": "Dump mongo collections, zip, upload to S3",
   "main": "index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Lendix/mongoS3.git"
+    "url": "git+ssh://git@github.com/triamnetwork/mongoS3.git"
   },
   "keywords": [
     "mongodb",
@@ -31,13 +31,12 @@
     "dump",
     "s3",
     "backup",
-    "zip",
-    "heroku"
+    "zip"
   ],
   "author": "Lendix",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Lendix/mongoS3/issues"
+    "url": "https://github.com/triamnetwork/mongoS3/issues"
   },
-  "homepage": "https://github.com/Lendix/mongoS3#readme"
+  "homepage": "https://github.com/triamnetwork/mongoS3#readme"
 }
