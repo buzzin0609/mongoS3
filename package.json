@@ -1,5 +1,5 @@
 {
-  "name": "mongo-dump-s3",
+  "name": "mongo-backup-s3",
   "version": "1.2.0",
   "description": "Dump mongo collections, zip, upload to S3",
   "main": "index.js",
