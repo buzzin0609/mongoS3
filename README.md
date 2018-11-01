@@ -1,6 +1,12 @@
 # mongo-backup-s3
 Simply dump a Mongo DB, then stream everything to AWS S3, promise flavoured
 
+## Installation
+Install with npm:
+```
+npm install mongo-backup-s3
+```
+
 ## Usage
 
 ```es6
