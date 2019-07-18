@@ -1,6 +1,6 @@
 {
   "name": "mongo-backup-s3",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "description": "Dump mongo collections, zip, upload to S3",
   "main": "index.js",
   "directories": {
